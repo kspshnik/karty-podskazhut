@@ -173,10 +173,13 @@ button:disabled
 {
   content: '';
   background-image: var(--list-marker);
+  background-position: center;
+  background-size: contain;
   inline-size: 15px;
   block-size: 15px;
   position: absolute;
-  top: 0;
+  top: calc((100% / 2) - 7.5px);
+  ;
   left: 15px;
 }
 
