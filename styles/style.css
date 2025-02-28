@@ -179,7 +179,6 @@ button:disabled
   block-size: 15px;
   position: absolute;
   top: calc((100% / 2) - 7.5px);
-  ;
   left: 15px;
 }
 
@@ -272,9 +271,7 @@ button:disabled
   border-top: 1px solid var(--text-color);
   border-bottom: 1px solid var(--text-color);
   padding: 20px 5vi;
-  inline-size: calc(100% + 10vi);
-  position: relative;
-  left: -5vi;
+  inline-size: 100%;
   margin-block-start: 38px;
 }
 
