@@ -190,8 +190,6 @@ button:disabled
   font-size: 30px;
   padding: 0 4px;
   margin-inline-end: 1px;
-  line-height: 1;
-
 }
 
 .content__figure
@@ -270,7 +268,7 @@ button:disabled
   align-items: center;
   border-top: 1px solid var(--text-color);
   border-bottom: 1px solid var(--text-color);
-  padding: 20px 5vi;
+  padding: 21px 5vi;
   inline-size: 100%;
   margin-block-start: 38px;
 }
